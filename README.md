@@ -15,22 +15,22 @@ Contacto: 3208701304.
 Enlace: https://www.linkedin.com/in/eduan-camilo-mayorga-ruiz-55b97969/
 
 #### Habilidades.🚀
--Empatia
--Liderazgo
--Trabajo en Equipo
--Capacidad de analisis
--Pasion por lo que hago
--Compañerismo
--Responsabilidad
--Trabajo bajo presion....
+- Empatia
+- Liderazgo
+- Trabajo en Equipo
+- Capacidad de analisis
+- Pasion por lo que hago
+- Compañerismo
+- Responsabilidad
+- Trabajo bajo presion....
 
 #### Idiomas.⛅
--Español 
--Ingles Basico
+- Español 
+- Ingles Basico
 
 #### Formacion.👨‍🎓
--Ingeniero de Sistemas-Universidad Cooperativa de Colombia.2013
--Seminario en Perfeccionamiento en Seguridad y Software para rede.2013
+- Ingeniero de Sistemas-Universidad Cooperativa de Colombia.2013
+- Seminario en Perfeccionamiento en Seguridad y Software para rede.2013
 
 #### Certificados y Cursos.👨‍💻
 - Curso de Introduccion al desarrollo web. Google Activate
