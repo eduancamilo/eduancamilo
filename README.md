@@ -4,9 +4,9 @@
 Ingeniero de Sistemas con mas de 8 años de experiencia laboral en soporte en sitio con entidades financieras específicamente  en configuración mantenimiento y administración de cajeros automáticos de Diebold Nixdorf , apasionado por la programación, autodidacta,  con conocimiento en desarrollo movil y manejo de lenguajes  Java,Python,C#,Android ,Flutter,Kotlin en proceso de formacion Web(NODEJS,ExpessJs,VueJs, Html,Css), con conocimientos en Bases de Datos MySQL, Posgrest. Soy un profesional comprometido con ganas de aprender nuevas tecnologías,hábil, responsable amante de lo que hago y de mi profesión.
 
 #### Algunas cosas Adicionales.
--💼💬 Actualmete soy Ingeniero de Soporte de ATms en Diebold Nixdorf
--😎📋 Actualmente me Formo como programador con el proyecto de MisionTic2022 con la UTP, 
--📱�💻 Autodicta, aprendo dia a dia de lo que mas me apasiona la Programcion Movil y Desktop.
+- 💼💬 Actualmete soy Ingeniero de Soporte de ATms en Diebold Nixdorf
+- 😎📋 Actualmente me Formo como programador con el proyecto de MisionTic2022 con la UTP, 
+- 📱�💻 Autodicta, aprendo dia a dia de lo que mas me apasiona la Programcion Movil y Desktop.
 
 #### Informacion De Contacto.
 Email: eduan.mayorga@gmail.com
