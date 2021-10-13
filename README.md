@@ -30,7 +30,7 @@ Enlace: https://www.linkedin.com/in/eduan-camilo-mayorga-ruiz-55b97969/
 
 #### Formacion.👨‍🎓
 - Ingeniero de Sistemas-Universidad Cooperativa de Colombia.2013
-- Seminario en Perfeccionamiento en Seguridad y Software para rede.2013
+- Seminario en Perfeccionamiento en Seguridad y Software para Redes.2013
 
 #### Certificados y Cursos.👨‍💻
 - Curso de Introduccion al desarrollo web. Google Activate
