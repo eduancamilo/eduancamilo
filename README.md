@@ -1,7 +1,7 @@
 ## 👽📱🔋💻📋Portafolio Eduan Camilo Mayorga Ruiz 👋
 
 
-Ingeniero de Sistemas con mas de 8 años de experiencia laboral en soporte en sitio con entidades financieras específicamente  en configuración mantenimiento y administración de cajeros automáticos de Diebold Nixdorf , apasionado por la programación, autodidacta,  con conocimiento en desarrollo movil y manejo de lenguajes  Java,Python,C#,Android ,Flutter,Kotlin en proceso de formacion Web(NODEJS,ExpessJs,VueJs, Html,Css), con conocimientos en Bases de Datos MySQL, Posgrest. Soy un profesional comprometido con ganas de aprender nuevas tecnologías,hábil, responsable amante de lo que hago y de mi profesión.
+Ingeniero de Sistemas con mas de 8 años de experiencia laboral en soporte en sitio con entidades financieras específicamente  en configuración mantenimiento y administración de cajeros automáticos de Diebold Nixdorf , apasionado por la programación, autodidacta,  con conocimiento en desarrollo movil y manejo de lenguajes  Java,Python,C#,Android ,Flutter,Kotlin en proceso de formacion Web(NODEJS,ExpessJs,VueJs, Html,Css), con conocimientos en Bases de Datos MySQL, Postgres. Soy un profesional comprometido con ganas de aprender nuevas tecnologías,hábil, responsable amante de lo que hago y de mi profesión.
 
 #### Algunas cosas Adicionales.
 - 💼💬 Actualmete soy Ingeniero de Soporte de ATms en Diebold Nixdorf
